@@ -103,9 +103,15 @@ h3{
     margin-top: 15px;
   width: 30px;
 }
+.booth{
+  margin-right: 2%;
+}
 .email{
   margin-top: 15px;
   width: 30px;
+}
+.mail{
+  margin-left: 40px;
 }
 /* Contact Form Styles */
 form {
